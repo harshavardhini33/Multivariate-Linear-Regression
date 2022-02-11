@@ -18,8 +18,7 @@ Read the file cars.csv
 Assign the values for x and y as required
 
 ### Step5
-Apply linearRegression method and assign a variable for that.
-Print the coefficient,intercept and predicted value
+Create the linearRegression model and predict the output
 
 ## Program:
 ```
